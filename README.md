@@ -1,6 +1,6 @@
 # ĐỀ KIỂM TRA MÔN LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
-Mã đề: 02
-Thời gian làm bài: 75 Phút
+Mã đề: 02  
+Thời gian làm bài: 75 Phút  
 Lưu ý: Sử dụng tài liệu khi làm bài thi: Không được
 
 ---
