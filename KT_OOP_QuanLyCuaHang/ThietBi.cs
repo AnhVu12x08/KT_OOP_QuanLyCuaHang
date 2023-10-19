@@ -67,7 +67,7 @@ namespace KT_OOP_QuanLyCuaHang
         }
         public double ThueSX()
         {
-            return giaBan * tyLeThue;
+            return giaBan * ThietBi.tyLeThue;
         }
         public abstract double PhiBaoHanh();
         public double ChiPhi()
