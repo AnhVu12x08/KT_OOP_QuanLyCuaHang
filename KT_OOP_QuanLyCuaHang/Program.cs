@@ -11,15 +11,7 @@ class QuanLyCuaHang
     {
         Console.OutputEncoding = Encoding.Unicode;
         Console.InputEncoding = Encoding.Unicode;
-        //GiaDung gd = new GiaDung();
-        //gd.Nhap();
-        //gd.Xuat();
-        //DienTu dt = new DienTu();
-        //dt.Nhap();
-        //dt.Xuat();
-        //GiaoDuc gd1 = new GiaoDuc();
-        //gd1.Nhap();
-        //gd1.Xuat();
+        
         Console.WriteLine("Nhập vào số thiết bị");
         List<ThietBi> dsTB = new List<ThietBi>();
         int n = int.Parse(Console.ReadLine());
